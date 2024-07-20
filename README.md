@@ -20,6 +20,14 @@ There are packages available for shellcaster in the Arch User Repository (AUR). 
 * [Stable binary package](https://aur.archlinux.org/packages/shellcaster-bin/)
 * [Latest development package](https://aur.archlinux.org/packages/shellcaster-git/)
 
+### NixOS / Nix
+
+With [flakes](https://wiki.nixos.org/wiki/Flakes) enabled, run:
+
+```bash
+nix run github:jeff-hughes/shellcaster
+```
+
 ### On other Linux distributions and MacOS
 
 Currently the only option is to build from source.
