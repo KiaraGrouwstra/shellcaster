@@ -25,7 +25,7 @@ There are packages available for shellcaster in the Arch User Repository (AUR). 
 With [flakes](https://wiki.nixos.org/wiki/Flakes) enabled, run:
 
 ```bash
-nix run github:jeff-hughes/shellcaster
+nix run github:KiaraGrouwstra/shellcaster/nix
 ```
 
 ### On other Linux distributions and MacOS
